@@ -24,6 +24,7 @@ function App() {
         <p>It works, you will be number one in coding...</p>
       </div>
       <p className="read-the-docs">Hasan-Kanaya is the best</p>
+      <p>Now it should work</p>
     </>
   );
 }
