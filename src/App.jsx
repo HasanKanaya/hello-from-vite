@@ -25,6 +25,8 @@ function App() {
       </div>
       <p className="read-the-docs">Hasan-Kanaya is the best</p>
       <p>Now it should work</p>
+      <h4>10y from now you will arrive question where</h4>
+      <p>--Jim Rohn</p>
     </>
   );
 }
